@@ -1,0 +1,2 @@
+# No external dependencies required.
+# This project relies entirely on the Python Standard Library (e.g., sqlite3, hashlib, os).
